@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vfyJ6eMCxo5s0AkmnjdI4UiZFdAtExwLc+UZ1PerD0sIoXQfuJeIvVmZ/pX3+PZOr70fFdH9ME4wJJ0sAcRnRw==",
+  "dgSpecHash": "48zJdPO1WKgwdEyB8AS/JZCaUMnJhYHMxmRn9Go61FC7aZOH0+GAclTyu46kA0/0VBDtKpE5iwR1IRTVmDlMlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jessica Guncay\\source\\repos\\TasksProject\\TasksProject.Application\\TasksProject.Application.csproj",
+  "projectFilePath": "D:\\PROYECTOS\\asp-net-core-tasks-project\\TasksProject.Application\\TasksProject.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

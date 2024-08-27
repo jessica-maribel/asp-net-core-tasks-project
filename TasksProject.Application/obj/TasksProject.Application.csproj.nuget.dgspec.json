@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jessica Guncay\\source\\repos\\TasksProject\\TasksProject.Application\\TasksProject.Application.csproj": {}
+    "D:\\PROYECTOS\\asp-net-core-tasks-project\\TasksProject.Application\\TasksProject.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jessica Guncay\\source\\repos\\TasksProject\\TasksProject.Application\\TasksProject.Application.csproj": {
+    "D:\\PROYECTOS\\asp-net-core-tasks-project\\TasksProject.Application\\TasksProject.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jessica Guncay\\source\\repos\\TasksProject\\TasksProject.Application\\TasksProject.Application.csproj",
+        "projectUniqueName": "D:\\PROYECTOS\\asp-net-core-tasks-project\\TasksProject.Application\\TasksProject.Application.csproj",
         "projectName": "TasksProject.Application",
-        "projectPath": "C:\\Users\\Jessica Guncay\\source\\repos\\TasksProject\\TasksProject.Application\\TasksProject.Application.csproj",
-        "packagesPath": "C:\\Users\\Jessica Guncay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jessica Guncay\\source\\repos\\TasksProject\\TasksProject.Application\\obj\\",
+        "projectPath": "D:\\PROYECTOS\\asp-net-core-tasks-project\\TasksProject.Application\\TasksProject.Application.csproj",
+        "packagesPath": "C:\\Users\\gunca\\.nuget\\packages\\",
+        "outputPath": "D:\\PROYECTOS\\asp-net-core-tasks-project\\TasksProject.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Jessica Guncay\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\gunca\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -65,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

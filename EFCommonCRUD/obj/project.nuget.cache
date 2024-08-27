@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dscOom6KAzFIinSZKaLYoDQuwF5P3oVbz43x9wRaBfgmlG1AyNRsb8l4yYBgXfcVXABUTGY1JMZKq1P3zqPjgA==",
+  "dgSpecHash": "IgMphy1d7nErvUwiBupzFW/8q650tpFLL3RfPeH4wUsoMxJ2UFzO0ePKx8m1FqJ2OmF/aN999Hkxb1vj7HmK7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jessica Guncay\\source\\repos\\TasksProject\\EFCommonCRUD\\EFCommonCRUD.csproj",
+  "projectFilePath": "D:\\PROYECTOS\\asp-net-core-tasks-project\\EFCommonCRUD\\EFCommonCRUD.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TasksProject.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6e8324e14d89a17a8896b3c23983d865fe200a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("TasksProject.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TasksProject.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
