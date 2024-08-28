@@ -30,3 +30,44 @@ C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.API\obj\Debug\net
 C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.API\obj\Debug\net8.0\TasksProject.API.pdb
 C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.API\obj\Debug\net8.0\TasksProject.API.genruntimeconfig.cache
 C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.API\obj\Debug\net8.0\ref\TasksProject.API.dll
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\bin\Debug\net8.0\appsettings.Development.json
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\bin\Debug\net8.0\appsettings.json
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\bin\Debug\net8.0\TasksProject.API.exe
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\bin\Debug\net8.0\TasksProject.API.deps.json
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\bin\Debug\net8.0\TasksProject.API.runtimeconfig.json
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\bin\Debug\net8.0\TasksProject.API.dll
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\bin\Debug\net8.0\TasksProject.API.pdb
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\TasksProject.API.csproj.AssemblyReference.cache
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\TasksProject.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\TasksProject.API.AssemblyInfoInputs.cache
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\TasksProject.API.AssemblyInfo.cs
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\TasksProject.API.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\TasksProject.API.MvcApplicationPartsAssemblyInfo.cs
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\TasksProject.API.MvcApplicationPartsAssemblyInfo.cache
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\TasksProject.API.sourcelink.json
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\staticwebassets\msbuild.TasksProject.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\staticwebassets\msbuild.build.TasksProject.API.props
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TasksProject.API.props
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TasksProject.API.props
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\scopedcss\bundle\TasksProject.API.styles.css
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\TasksProject.API.csproj.CopyComplete
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\TasksProject.API.dll
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\refint\TasksProject.API.dll
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\TasksProject.API.pdb
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\TasksProject.API.genruntimeconfig.cache
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\obj\Debug\net8.0\ref\TasksProject.API.dll
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\bin\Debug\net8.0\EFCommonCRUD.dll
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\bin\Debug\net8.0\TasksProject.Application.dll
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\bin\Debug\net8.0\TasksProject.Infrastructure.dll
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\bin\Debug\net8.0\EFCommonCRUD.pdb
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\bin\Debug\net8.0\TasksProject.Application.pdb
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.API\bin\Debug\net8.0\TasksProject.Infrastructure.pdb
