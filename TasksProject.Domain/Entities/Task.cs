@@ -4,8 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TasksProject.Domain.Entities
-{
+namespace TasksProject.Domain.Entities;
     public partial class Task
     {
         public int Id { get; set; }
@@ -29,4 +28,3 @@ namespace TasksProject.Domain.Entities
         public virtual User? User { get; set; }
     }
 
-}
