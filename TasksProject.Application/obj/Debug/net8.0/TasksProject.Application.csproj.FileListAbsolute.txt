@@ -1,0 +1,11 @@
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Application\bin\Debug\net8.0\TasksProject.Application.deps.json
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Application\bin\Debug\net8.0\TasksProject.Application.dll
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Application\bin\Debug\net8.0\TasksProject.Application.pdb
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Application\obj\Debug\net8.0\TasksProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Application\obj\Debug\net8.0\TasksProject.Application.AssemblyInfoInputs.cache
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Application\obj\Debug\net8.0\TasksProject.Application.AssemblyInfo.cs
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Application\obj\Debug\net8.0\TasksProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Application\obj\Debug\net8.0\TasksProject.Application.dll
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Application\obj\Debug\net8.0\refint\TasksProject.Application.dll
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Application\obj\Debug\net8.0\TasksProject.Application.pdb
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Application\obj\Debug\net8.0\ref\TasksProject.Application.dll

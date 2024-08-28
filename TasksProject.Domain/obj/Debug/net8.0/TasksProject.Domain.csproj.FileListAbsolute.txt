@@ -1,0 +1,11 @@
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Domain\bin\Debug\net8.0\TasksProject.Domain.deps.json
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Domain\bin\Debug\net8.0\TasksProject.Domain.dll
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Domain\bin\Debug\net8.0\TasksProject.Domain.pdb
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Domain\obj\Debug\net8.0\TasksProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Domain\obj\Debug\net8.0\TasksProject.Domain.AssemblyInfoInputs.cache
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Domain\obj\Debug\net8.0\TasksProject.Domain.AssemblyInfo.cs
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Domain\obj\Debug\net8.0\TasksProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Domain\obj\Debug\net8.0\TasksProject.Domain.dll
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Domain\obj\Debug\net8.0\refint\TasksProject.Domain.dll
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Domain\obj\Debug\net8.0\TasksProject.Domain.pdb
+C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Domain\obj\Debug\net8.0\ref\TasksProject.Domain.dll
