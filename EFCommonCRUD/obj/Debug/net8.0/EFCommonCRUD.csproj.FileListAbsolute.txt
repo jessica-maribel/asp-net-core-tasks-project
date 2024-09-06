@@ -9,3 +9,15 @@ C:\Users\Jessica Guncay\source\repos\TasksProject\EFCommonCRUD\obj\Debug\net8.0\
 C:\Users\Jessica Guncay\source\repos\TasksProject\EFCommonCRUD\obj\Debug\net8.0\refint\EFCommonCRUD.dll
 C:\Users\Jessica Guncay\source\repos\TasksProject\EFCommonCRUD\obj\Debug\net8.0\EFCommonCRUD.pdb
 C:\Users\Jessica Guncay\source\repos\TasksProject\EFCommonCRUD\obj\Debug\net8.0\ref\EFCommonCRUD.dll
+D:\PROYECTOS\asp-net-core-tasks-project\EFCommonCRUD\bin\Debug\net8.0\EFCommonCRUD.deps.json
+D:\PROYECTOS\asp-net-core-tasks-project\EFCommonCRUD\bin\Debug\net8.0\EFCommonCRUD.dll
+D:\PROYECTOS\asp-net-core-tasks-project\EFCommonCRUD\bin\Debug\net8.0\EFCommonCRUD.pdb
+D:\PROYECTOS\asp-net-core-tasks-project\EFCommonCRUD\obj\Debug\net8.0\EFCommonCRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\asp-net-core-tasks-project\EFCommonCRUD\obj\Debug\net8.0\EFCommonCRUD.AssemblyInfoInputs.cache
+D:\PROYECTOS\asp-net-core-tasks-project\EFCommonCRUD\obj\Debug\net8.0\EFCommonCRUD.AssemblyInfo.cs
+D:\PROYECTOS\asp-net-core-tasks-project\EFCommonCRUD\obj\Debug\net8.0\EFCommonCRUD.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\asp-net-core-tasks-project\EFCommonCRUD\obj\Debug\net8.0\EFCommonCRUD.sourcelink.json
+D:\PROYECTOS\asp-net-core-tasks-project\EFCommonCRUD\obj\Debug\net8.0\EFCommonCRUD.dll
+D:\PROYECTOS\asp-net-core-tasks-project\EFCommonCRUD\obj\Debug\net8.0\refint\EFCommonCRUD.dll
+D:\PROYECTOS\asp-net-core-tasks-project\EFCommonCRUD\obj\Debug\net8.0\EFCommonCRUD.pdb
+D:\PROYECTOS\asp-net-core-tasks-project\EFCommonCRUD\obj\Debug\net8.0\ref\EFCommonCRUD.dll

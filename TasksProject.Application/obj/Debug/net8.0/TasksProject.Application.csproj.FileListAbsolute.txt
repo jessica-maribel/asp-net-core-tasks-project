@@ -9,3 +9,15 @@ C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Application\obj\D
 C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Application\obj\Debug\net8.0\refint\TasksProject.Application.dll
 C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Application\obj\Debug\net8.0\TasksProject.Application.pdb
 C:\Users\Jessica Guncay\source\repos\TasksProject\TasksProject.Application\obj\Debug\net8.0\ref\TasksProject.Application.dll
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.Application\bin\Debug\net8.0\TasksProject.Application.deps.json
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.Application\bin\Debug\net8.0\TasksProject.Application.dll
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.Application\bin\Debug\net8.0\TasksProject.Application.pdb
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.Application\obj\Debug\net8.0\TasksProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.Application\obj\Debug\net8.0\TasksProject.Application.AssemblyInfoInputs.cache
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.Application\obj\Debug\net8.0\TasksProject.Application.AssemblyInfo.cs
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.Application\obj\Debug\net8.0\TasksProject.Application.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.Application\obj\Debug\net8.0\TasksProject.Application.sourcelink.json
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.Application\obj\Debug\net8.0\TasksProject.Application.dll
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.Application\obj\Debug\net8.0\refint\TasksProject.Application.dll
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.Application\obj\Debug\net8.0\TasksProject.Application.pdb
+D:\PROYECTOS\asp-net-core-tasks-project\TasksProject.Application\obj\Debug\net8.0\ref\TasksProject.Application.dll
